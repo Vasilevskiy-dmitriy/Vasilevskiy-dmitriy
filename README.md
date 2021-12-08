@@ -1,5 +1,4 @@
 # HI!👋 I am Dmitriy 🕊
-![i](https://user-images.githubusercontent.com/64576179/145259498-ca502b2b-b601-457e-a28c-0274adac4905.png)
 
 ```
 I am interested in the world with enthusiasm 🌏, I like to play sports💪, meditate 🧘‍♂️ and of course code👨‍💻
@@ -27,4 +26,4 @@ I have been coding since 2017.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Vasilevskiy_dm)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmitriy-vasilevskiy-4738271a2/)
-
+![i](https://user-images.githubusercontent.com/64576179/145259498-ca502b2b-b601-457e-a28c-0274adac4905.png)
