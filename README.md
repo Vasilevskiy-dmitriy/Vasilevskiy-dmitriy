@@ -15,7 +15,6 @@ I have been coding since 2017.
 ![](https://img.shields.io/badge/HTML5-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=e44d26)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
 
-![](https://img.shields.io/badge/cms-Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=7175aa)![145259498-ca502b2b-b601-457e-a28c-0274adac4905](https://user-images.githubusercontent.com/64576179/145259519-812bd260-8c37-47c9-808d-b5fcba987d33.png)
 
 ![](https://img.shields.io/badge/cms-OpenCart-informational?style=for-the-badge&logo=opencart&logoColor=white&color=31bdeb)
 
