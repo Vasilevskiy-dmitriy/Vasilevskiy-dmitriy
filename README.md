@@ -18,7 +18,7 @@ I have been coding since 2017.
 ![](https://img.shields.io/badge/cms-OpenCart-informational?style=for-the-badge&logo=opencart&logoColor=white&color=31bdeb)
 
 ![](https://img.shields.io/badge/SCM-git-informational?style=for-the-badge&logo=git&logoColor=white&color=90311f)
-![](https://img.shields.io/badge/environment-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=0b6084)![145190141-b891e9ee-c83d-4e41-abef-f15f2dce0817](https://user-images.githubusercontent.com/64576179/145190398-a6ab1eaf-0e98-45c1-b2f7-7b4e271dae13.jpg)
+![](https://img.shields.io/badge/environment-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=0b6084)
 
 
 
