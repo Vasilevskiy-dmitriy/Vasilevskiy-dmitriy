@@ -1,4 +1,12 @@
-I use technologies: 
+# HI!👋 I am Dmitriy 🕊
+```
+I am interested in the world with enthusiasm 🌏, I like to play sports💪, meditate 🧘‍♂️ and of course code👨‍💻
+
+Coding is my life's work, I love it❤️
+I have been coding since 2017.
+```
+
+## I use technologies
 
 ![](https://img.shields.io/badge/Coding-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=1e8cbe)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=f29209)
@@ -12,11 +20,7 @@ I use technologies:
 ![](https://img.shields.io/badge/environment-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=0b6084)
 
 
-
-
-
-
-
+## I'm in social networks
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Vasilevskiy_dm)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/dmitriy-vasilevskiy-4738271a2/)
