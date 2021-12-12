@@ -1,4 +1,4 @@
-# HI!👋 I am Dmitriy 🕊
+# HI!👋 I am Dmitriy
 
 ```
 I am interested in the world with enthusiasm 🌏, I like to play sports💪, meditate 🧘‍♂️ and of course code👨‍💻
@@ -14,8 +14,8 @@ I have been coding since 2017.
 ![](https://img.shields.io/badge/HTML5-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=e44d26)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
 
-
-![](https://img.shields.io/badge/cms-OpenCart-informational?style=for-the-badge&logo=opencart&logoColor=white&color=31bdeb)
+![](https://img.shields.io/badge/cms-Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=7175aa)
+![](https://img.shields.io/badge/cms-Laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=31bdeb)
 
 ![](https://img.shields.io/badge/SCM-git-informational?style=for-the-badge&logo=git&logoColor=white&color=90311f)
 ![](https://img.shields.io/badge/environment-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=0b6084)
